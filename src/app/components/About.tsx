@@ -3,7 +3,7 @@ import { motion, useInView } from 'motion/react';
 import { Heart, Users, Home, Smile, ArrowRight, Phone, CheckCircle } from 'lucide-react';
 
 // Facility exterior photo — replace with your actual hosted image URL
-const houseImg = 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1080&q=80&auto=format&fit=crop';
+const houseImg = '/facility-exterior.jpg';
 
 const FAMILY_IMG = 'https://images.unsplash.com/photo-1752090711785-eefa846205c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxmYW1pbHklMjBob2xkaW5nJTIwaGFuZHMlMjBzdXBwb3J0JTIwbG92ZWQlMjBvbmV8ZW58MXx8fHwxNzczMzQ5NDgxfDA&ixlib=rb-4.1.0&q=80&w=1080';
 
