@@ -3,10 +3,10 @@ import { motion, useInView, AnimatePresence } from 'motion/react';
 import { X, ZoomIn, Home, Phone } from 'lucide-react';
 
 // Facility photos — replace these URLs with your actual hosted facility images
-const houseImg = 'https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1080&q=80&auto=format&fit=crop';
-const livingRoomImg = 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1080&q=80&auto=format&fit=crop';
-const kitchenImg = 'https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1080&q=80&auto=format&fit=crop';
-const foyerImg = 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1080&q=80&auto=format&fit=crop';
+const houseImg = '/facility-exterior.jpg';
+const livingRoomImg = '/living-room.jpg';
+const kitchenImg = '/kitchen.jpg';
+const foyerImg = '/foyer.jpg';
 
 const photos = [
   {
